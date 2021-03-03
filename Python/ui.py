@@ -22,7 +22,6 @@ button1.pack()
 frame2.pack()
 frame1.pack()
 
-
 window.mainloop()
 
 print("end")
